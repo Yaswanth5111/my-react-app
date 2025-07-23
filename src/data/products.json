@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Apple Vision Pro AR Headset",
+    "price": 3499,
+    "brand": "Apple",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+    "category": "Wearables",
+    "description": "Step into the future with Apple's most advanced augmented reality headset, featuring ultra-high resolution and spatial audio."
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy Z Fold5",
+    "price": 1799,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop",
+    "category": "Smartphones",
+    "description": "Unfold next-gen productivity and entertainment with Samsung's flagship foldable phone."
+  },
+  {
+    "id": 3,
+    "title": "Sony Bravia XR 8K OLED TV",
+    "price": 5999,
+    "brand": "Sony",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?w=400&h=400&fit=crop",
+    "category": "Televisions",
+    "description": "Experience cinematic brilliance with Sony's 8K OLED, powered by the revolutionary XR processor."
+  },
+  {
+    "id": 4,
+    "title": "Bose QuietComfort Ultra Earbuds",
+    "price": 399,
+    "brand": "Bose",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Audio",
+    "description": "Immerse yourself in pure sound with Bose's best noise-cancelling wireless earbuds."
+  },
+  {
+    "id": 5,
+    "title": "Dell XPS 17 Creator Edition",
+    "price": 2499,
+    "brand": "Dell",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+    "category": "Laptops",
+    "description": "Power through creative projects with a 17-inch 4K display and NVIDIA RTX graphics."
+  },
+  {
+    "id": 6,
+    "title": "DJI Air 3 Drone",
+    "price": 1099,
+    "brand": "DJI",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1464983953574-0892a716854b?w=400&h=400&fit=crop",
+    "category": "Drones",
+    "description": "Capture breathtaking aerial footage with advanced obstacle avoidance and 4K video."
+  },
+  {
+    "id": 7,
+    "title": "Microsoft Surface Studio 2+",
+    "price": 4299,
+    "brand": "Microsoft",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=400&h=400&fit=crop",
+    "category": "Desktops",
+    "description": "A creator's dream: ultra-thin touchscreen, powerful graphics, and seamless pen input."
+  },
+  {
+    "id": 8,
+    "title": "Logitech MX Master 3S Mouse",
+    "price": 129,
+    "brand": "Logitech",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+    "category": "Accessories",
+    "description": "The ultimate productivity mouse, now quieter and more precise than ever."
+  },
+  {
+    "id": 9,
+    "title": "Apple MacBook Pro 16” M3 Max",
+    "price": 3899,
+    "brand": "Apple",
+    "rating": 5.0,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=400&fit=crop",
+    "category": "Laptops",
+    "description": "Unmatched performance for pros: M3 Max chip, Liquid Retina XDR, and all-day battery."
+  },
+  {
+    "id": 10,
+    "title": "Samsung Odyssey Neo G9 Monitor",
+    "price": 2199,
+    "brand": "Samsung",
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fdc?w=400&h=400&fit=crop",
+    "category": "Monitors",
+    "description": "Super ultrawide, 240Hz, mini-LED: the ultimate display for gaming and productivity."
+  },
+  {
+    "id": 11,
+    "title": "PlayStation 5 Pro",
+    "price": 699,
+    "brand": "Sony",
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&h=400&fit=crop",
+    "category": "Gaming",
+    "description": "Next-level gaming with 8K graphics, lightning-fast SSD, and immersive 3D audio."
+  },
+  {
+    "id": 12,
+    "title": "Google Nest Hub Max 2",
+    "price": 299,
+    "brand": "Google",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?w=400&h=400&fit=crop",
+    "category": "Smart Home",
+    "description": "Your smart home command center: bigger screen, better sound, and seamless Google Assistant."
+  }
+]
