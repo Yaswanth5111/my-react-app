@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+import SearchBar from "../components/SearchBar";
 
 const Home = () => {
   useEffect(() => {
@@ -484,6 +485,7 @@ const Home = () => {
 
       <main className="main-content">
         <div className="content-left">
+          <SearchBar />
           <h1 className="main-title">Visit HIcool Electronics Store.</h1>
           <p className="main-description">
             Discover cutting-edge technology and the latest electronics at HIcool Store. From smartphones to smart home devices, we offer premium electronics with unbeatable prices and expert service.
